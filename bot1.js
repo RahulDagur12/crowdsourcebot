@@ -3,7 +3,7 @@ const Discord = require("discord.js");
 var client = new Discord.Client;
 var bot = new Discord.Client;
 client.login("NDk1MDQ3MzIxNTQ2MTI5NDE0.XoGyrQ.u4VhXobMXMXSI1_lZAyy5eFJM6k", output);
-bot.login("NTM1NzY5MzI3OTM3MjU3NDc0.DyZl4g.CUN7P5aYSGC19OZKgU1CVHiwcQw", output);
+bot.login("NjIyNDI3NDcwOTgwOTcyNTQ1.XoHSew.TMeIGV8mgtwNwwDcw6td9jHzsgo", output);
 /** @type {!Array} */
 var hqchannels = ["459842150323060736","535628205139296256","536606600291549194"];
 /** @type {!Array} */
